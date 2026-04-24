@@ -173,7 +173,11 @@ public class XServerDisplayActivity extends AppCompatActivity implements Navigat
             if (wineInfo != WineInfo.MAIN_WINE_INFO) rootFS.setWinePath(wineInfo.path);
 
             String wineprefixWineVersion = container.getExtra("wineprefixWineVersion");
-            if (!wineprefixWineVersion.equals(wineVersion)) {
+
+            if (wineprefixWineVersion.isEmpty()) {
+                container.putExtra("wineprefixWineVersion", wineVersion);
+                container.saveData();
+            } else if (!wineprefixWineVersion.equals(wineVersion)) {
                 container.putExtra("wineprefixNeedsUpdate", "t");
                 container.saveData();
             }
