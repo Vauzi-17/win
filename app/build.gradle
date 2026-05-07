@@ -11,6 +11,12 @@ android {
         versionName "11.0"
     }
 
+    packagingOptions {
+        jniLibs {
+            pickFirsts += ["lib/arm64-v8a/*.so"]
+        }
+    }
+
     buildTypes {
         debug {
             minifyEnabled true

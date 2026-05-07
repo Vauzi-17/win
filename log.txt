@@ -1,0 +1,762 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/C:/Users/HP/.gradle/wrapper/dists/gradle-7.3.3-bin/6a41zxkdtcxs8rphpq6y0069z/gradle-7.3.3/lib/native-platform-0.22-milestone-21.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+
+> Configure project :app
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+C/C++: Ignoring invalid ABI 'riscv64' found in ABI metadata file 'D:\sdk\ndk\27.0.12077973\meta\abis.json'.
+WARNING:We recommend using a newer Android Gradle plugin to use compileSdk = 34
+
+This Android Gradle plugin (7.2.2) was tested up to compileSdk = 33
+
+This warning can be suppressed by adding
+    android.suppressUnsupportedCompileSdk=34
+to this project's gradle.properties
+
+The build will continue, but you are strongly encouraged to update your project to
+use a newer Android Gradle Plugin that has been tested with compileSdk = 34
+
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:compileDebugAidl NO-SOURCE
+> Task :app:compileDebugRenderscript NO-SOURCE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:compileDebugJavaWithJavac UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:processDebugJavaRes NO-SOURCE
+> Task :app:mergeDebugJavaResource UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:dexBuilderDebug UP-TO-DATE
+> Task :app:mergeProjectDexDebug UP-TO-DATE
+> Task :app:configureCMakeDebug[arm64-v8a]
+> Task :app:buildCMakeDebug[arm64-v8a]
+C/C++: ninja: Entering directory `D:\pelajaranandroidstudio\win\app\.cxx\Debug\3j312z2n\arm64-v8a'
+C/C++: In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/gpu_helper.c:13:
+C/C++: In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/file_utils.h:10:
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/time_utils.h:10:5: error: call to undeclared function 'clock_gettime'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/wine_registry_editor.c:6:
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: error: call to undeclared library function 'strdup' with type 'char *(const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: note: include the header <string.h> or explicitly provide a declaration for 'strdup'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: error: call to undeclared library function 'strlen' with type 'unsigned long (const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: note: include the header <string.h> or explicitly provide a declaration for 'strlen'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: error: call to undeclared library function 'strchr' with type 'char *(const char *, int)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: note: include the header <string.h> or explicitly provide a declaration for 'strchr'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: error: call to undeclared library function 'strcmp' with type 'int (const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: note: include the header <string.h> or explicitly provide a declaration for 'strcmp'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: error: call to undeclared library function 'strstr' with type 'char *(const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: note: include the header <string.h> or explicitly provide a declaration for 'strstr'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: error: call to undeclared library function 'strcpy' with type 'char *(char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: note: include the header <string.h> or explicitly provide a declaration for 'strcpy'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: error: call to undeclared library function 'strtod' with type 'double (const char *, char **)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: note: include the header <stdlib.h> or explicitly provide a declaration for 'strtod'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:68:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:116:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:106:5: warning: 'snprintf' will always be truncated; specified size is 3, but format string expands to at least 4 [-Wformat-truncation]
+C/C++: In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/src/compressed_texture.c:2:
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:109:5: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:145:5: warning: missing field 'va_len' initializer [-Wmissing-field-initializers]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:151:13: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:211:9: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:220:9: warning: missing field 'flags' initializer [-Wmissing-field-initializers]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:2259:12: warning: 4 enumeration values not handled in switch: 'TGSI_RETURN_TYPE_UNORM', 'TGSI_RETURN_TYPE_SNORM', 'TGSI_RETURN_TYPE_FLOAT'... [-Wswitch]
+C/C++: D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:3574:12: warning: 5 enumeration values not handled in switch: 'TGSI_TYPE_UNTYPED', 'TGSI_TYPE_VOID', 'TGSI_TYPE_FLOAT'... [-Wswitch]
+
+> Task :app:buildCMakeDebug[arm64-v8a] FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:buildCMakeDebug[arm64-v8a]'.
+> Build command failed.
+  Error while executing process D:\sdk\cmake\3.22.1\bin\ninja.exe with arguments {-C D:\pelajaranandroidstudio\win\app\.cxx\Debug\3j312z2n\arm64-v8a file_redirect_hook gladiorenderer gsl_alloc_hook hook_impl main_hook midihandler virglrenderer vortekrenderer winlator}
+  ninja: Entering directory `D:\pelajaranandroidstudio\win\app\.cxx\Debug\3j312z2n\arm64-v8a'
+  [1/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/vrend_formats.c.o
+  [2/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server.c.o
+  [3/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_format.c.o
+  [4/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server_renderer.c.o
+  [5/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server_shm.c.o
+  [6/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_format_table.c.o
+  [7/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_cpu_detect.c.o
+  [8/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_texture.c.o
+  [9/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_bitmask.c.o
+  [10/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_debug.c.o
+  [11/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_hash_table.c.o
+  [12/69] Building C object winlator/CMakeFiles/winlator.dir/src/drawable.c.o
+  [13/69] Building C object winlator/CMakeFiles/winlator.dir/src/gpu_image.c.o
+  [14/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_scan.c.o
+  [15/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_ureg.c.o
+  [16/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_info.c.o
+  [17/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_build.c.o
+  [18/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/cso_cache/cso_cache.c.o
+  [19/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_debug_describe.c.o
+  [20/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_surface.c.o
+  [21/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_math.c.o
+  [22/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_dump.c.o
+  [23/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/cso_cache/cso_hash.c.o
+  [24/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_util.c.o
+  [25/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_text.c.o
+  [26/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_strings.c.o
+  [27/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_sanity.c.o
+  [28/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_iterate.c.o
+  [29/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_transform.c.o
+  [30/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/os/os_misc.c.o
+  [31/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_parse.c.o
+  [32/69] Building CXX object libadrenotools/lib/linkernsbypass/CMakeFiles/linkernsbypass.dir/elf_soname_patcher.cpp.o
+  [33/69] Building C object midihandler/CMakeFiles/midihandler.dir/midihandler.c.o
+  [34/69] Building CXX object libadrenotools/CMakeFiles/adrenotools.dir/src/bcenabler.cpp.o
+  [35/69] Building C object libadrenotools/src/hook/CMakeFiles/gsl_alloc_hook.dir/gsl_alloc_hook.c.o
+  [36/69] Building C object libadrenotools/src/hook/CMakeFiles/file_redirect_hook.dir/file_redirect_hook.c.o
+  [37/69] Building C object libadrenotools/src/hook/CMakeFiles/main_hook.dir/main_hook.c.o
+  [38/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_query.c.o
+  [39/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_formats.c.o
+  [40/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_texture.c.o
+  [41/69] Linking C shared library D:\pelajaranandroidstudio\win\app\build\intermediates\cxx\Debug\3j312z2n\obj\arm64-v8a\libmidihandler.so
+  [42/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/attrib_stack.c.o
+  [43/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/shader_converter.c.o
+  [44/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_context.c.o
+  [45/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_renderer.c.o
+  [46/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/main.c.o
+  [47/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/request_handler.c.o
+  [48/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/shader_material.c.o
+  [49/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/arb_program.c.o
+  [50/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_framebuffer.c.o
+  [51/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_vao.c.o
+  [52/69] Building C object winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o
+  FAILED: winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o 
+  D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwinlator_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -fno-limit-debug-info  -fPIC -MD -MT winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o -MF winlator\CMakeFiles\winlator.dir\src\gpu_helper.c.o.d -o winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/gpu_helper.c
+  In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/gpu_helper.c:13:
+  In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/file_utils.h:10:
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/time_utils.h:10:5: error: call to undeclared function 'clock_gettime'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+     10 |     clock_gettime(CLOCK_REALTIME, &time);
+       ^
+  1 error generated.
+  [53/69] Building C object winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o
+  FAILED: winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o 
+  D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwinlator_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -fno-limit-debug-info  -fPIC -MD -MT winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o -MF winlator\CMakeFiles\winlator.dir\src\wine_registry_editor.c.o.d -o winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/wine_registry_editor.c
+  In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/wine_registry_editor.c:6:
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: error: call to undeclared library function 'strdup' with type 'char *(const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+     51 |         ArrayList_add(arrayList, strdup(rawString));
+                                    ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: note: include the header <string.h> or explicitly provide a declaration for 'strdup'
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+     94 |     memcpy(res, dst, dstOffset);
+       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: error: call to undeclared library function 'strlen' with type 'unsigned long (const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    125 |     char* back = s + strlen(s);
+                        ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: note: include the header <string.h> or explicitly provide a declaration for 'strlen'
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: error: call to undeclared library function 'strchr' with type 'char *(const char *, int)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    137 |     while ((index = strchr(input, delimiter)) != NULL) {
+                       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: note: include the header <string.h> or explicitly provide a declaration for 'strchr'
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: error: call to undeclared library function 'strcmp' with type 'int (const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    196 |             bool found = !needle || strcmp(word, needle) == 0;
+                                       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: note: include the header <string.h> or explicitly provide a declaration for 'strcmp'
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: error: call to undeclared library function 'strstr' with type 'char *(const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    217 |     while ((str = strstr(subject, search))) {
+                     ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: note: include the header <string.h> or explicitly provide a declaration for 'strstr'
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: error: call to undeclared library function 'strcpy' with type 'char *(char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    227 |     strcpy(result + offset, subject);
+       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: note: include the header <string.h> or explicitly provide a declaration for 'strcpy'
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: error: call to undeclared library function 'strtod' with type 'double (const char *, char **)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    284 |     strtod(string, &endPtr);
+       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: note: include the header <stdlib.h> or explicitly provide a declaration for 'strtod'
+  8 errors generated.
+  [54/69] Building CXX object libadrenotools/lib/linkernsbypass/CMakeFiles/linkernsbypass.dir/android_linker_ns.cpp.o
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:68:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+     68 |     };
+       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:116:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+    116 |     };
+       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:106:5: warning: 'snprintf' will always be truncated; specified size is 3, but format string expands to at least 4 [-Wformat-truncation]
+    106 |     snprintf(sonameOverwrite.data(), sonameOverwrite.size(), "%03u", TargetId++);
+       ^
+  3 warnings generated.
+  [55/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o
+  FAILED: gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o 
+  D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgladiorenderer_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/../winlator/include -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/../vortekrenderer/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -Werror=incompatible-pointer-types -fno-limit-debug-info  -fPIC -MD -MT gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o -MF gladiorenderer\CMakeFiles\gladiorenderer.dir\src\compressed_texture.c.o.d -o gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/src/compressed_texture.c
+  In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/src/compressed_texture.c:2:
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+    608 |       memcpy(data, src, 4*16);
+         ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+  1 error generated.
+  [56/69] Building CXX object libadrenotools/CMakeFiles/adrenotools.dir/src/driver.cpp.o
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:109:5: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+    109 |     };
+       ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:145:5: warning: missing field 'va_len' initializer [-Wmissing-field-initializers]
+    145 |     };
+       ^
+  2 warnings generated.
+  [57/69] Building CXX object libadrenotools/src/hook/CMakeFiles/hook_impl.dir/hook_impl.cpp.o
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:151:13: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+    151 |             };
+               ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:211:9: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+    211 |         };
+           ^
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:220:9: warning: missing field 'flags' initializer [-Wmissing-field-initializers]
+    220 |         };
+           ^
+  3 warnings generated.
+  [58/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_buffer.c.o
+  [59/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/vrend_shader.c.o
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:2259:12: warning: 4 enumeration values not handled in switch: 'TGSI_RETURN_TYPE_UNORM', 'TGSI_RETURN_TYPE_SNORM', 'TGSI_RETURN_TYPE_FLOAT'... [-Wswitch]
+   2259 |    switch (ctx->samplers[sinfo->sreg_index].tgsi_sampler_return) {
+              ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:3574:12: warning: 5 enumeration values not handled in switch: 'TGSI_TYPE_UNTYPED', 'TGSI_TYPE_VOID', 'TGSI_TYPE_FLOAT'... [-Wswitch]
+   3574 |    switch (stype) {
+              ^~~~~
+  2 warnings generated.
+  ninja: build stopped: subcommand failed.
+  
+
+
+* Try:
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Exception is:
+org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:buildCMakeDebug[arm64-v8a]'.
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:145)
+	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:282)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:143)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:131)
+	at org.gradle.api.internal.tasks.execution.CleanupStaleOutputsExecuter.execute(CleanupStaleOutputsExecuter.java:77)
+	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:56)
+	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:199)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:157)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:73)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:74)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:402)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:389)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:382)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:368)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.lambda$run$0(DefaultPlanExecutor.java:127)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:191)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.executeNextNode(DefaultPlanExecutor.java:182)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:124)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:61)
+Caused by: org.gradle.internal.UncheckedException: Build command failed.
+Error while executing process D:\sdk\cmake\3.22.1\bin\ninja.exe with arguments {-C D:\pelajaranandroidstudio\win\app\.cxx\Debug\3j312z2n\arm64-v8a file_redirect_hook gladiorenderer gsl_alloc_hook hook_impl main_hook midihandler virglrenderer vortekrenderer winlator}
+ninja: Entering directory `D:\pelajaranandroidstudio\win\app\.cxx\Debug\3j312z2n\arm64-v8a'
+[1/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/vrend_formats.c.o
+[2/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server.c.o
+[3/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_format.c.o
+[4/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server_renderer.c.o
+[5/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server_shm.c.o
+[6/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_format_table.c.o
+[7/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_cpu_detect.c.o
+[8/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_texture.c.o
+[9/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_bitmask.c.o
+[10/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_debug.c.o
+[11/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_hash_table.c.o
+[12/69] Building C object winlator/CMakeFiles/winlator.dir/src/drawable.c.o
+[13/69] Building C object winlator/CMakeFiles/winlator.dir/src/gpu_image.c.o
+[14/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_scan.c.o
+[15/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_ureg.c.o
+[16/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_info.c.o
+[17/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_build.c.o
+[18/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/cso_cache/cso_cache.c.o
+[19/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_debug_describe.c.o
+[20/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_surface.c.o
+[21/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_math.c.o
+[22/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_dump.c.o
+[23/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/cso_cache/cso_hash.c.o
+[24/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_util.c.o
+[25/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_text.c.o
+[26/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_strings.c.o
+[27/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_sanity.c.o
+[28/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_iterate.c.o
+[29/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_transform.c.o
+[30/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/os/os_misc.c.o
+[31/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_parse.c.o
+[32/69] Building CXX object libadrenotools/lib/linkernsbypass/CMakeFiles/linkernsbypass.dir/elf_soname_patcher.cpp.o
+[33/69] Building C object midihandler/CMakeFiles/midihandler.dir/midihandler.c.o
+[34/69] Building CXX object libadrenotools/CMakeFiles/adrenotools.dir/src/bcenabler.cpp.o
+[35/69] Building C object libadrenotools/src/hook/CMakeFiles/gsl_alloc_hook.dir/gsl_alloc_hook.c.o
+[36/69] Building C object libadrenotools/src/hook/CMakeFiles/file_redirect_hook.dir/file_redirect_hook.c.o
+[37/69] Building C object libadrenotools/src/hook/CMakeFiles/main_hook.dir/main_hook.c.o
+[38/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_query.c.o
+[39/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_formats.c.o
+[40/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_texture.c.o
+[41/69] Linking C shared library D:\pelajaranandroidstudio\win\app\build\intermediates\cxx\Debug\3j312z2n\obj\arm64-v8a\libmidihandler.so
+[42/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/attrib_stack.c.o
+[43/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/shader_converter.c.o
+[44/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_context.c.o
+[45/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_renderer.c.o
+[46/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/main.c.o
+[47/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/request_handler.c.o
+[48/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/shader_material.c.o
+[49/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/arb_program.c.o
+[50/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_framebuffer.c.o
+[51/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_vao.c.o
+[52/69] Building C object winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o
+FAILED: winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o 
+D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwinlator_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -fno-limit-debug-info  -fPIC -MD -MT winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o -MF winlator\CMakeFiles\winlator.dir\src\gpu_helper.c.o.d -o winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/gpu_helper.c
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/gpu_helper.c:13:
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/file_utils.h:10:
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/time_utils.h:10:5: error: call to undeclared function 'clock_gettime'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   10 |     clock_gettime(CLOCK_REALTIME, &time);
+     ^
+1 error generated.
+[53/69] Building C object winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o
+FAILED: winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o 
+D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwinlator_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -fno-limit-debug-info  -fPIC -MD -MT winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o -MF winlator\CMakeFiles\winlator.dir\src\wine_registry_editor.c.o.d -o winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/wine_registry_editor.c
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/wine_registry_editor.c:6:
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: error: call to undeclared library function 'strdup' with type 'char *(const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   51 |         ArrayList_add(arrayList, strdup(rawString));
+                                  ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: note: include the header <string.h> or explicitly provide a declaration for 'strdup'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   94 |     memcpy(res, dst, dstOffset);
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: error: call to undeclared library function 'strlen' with type 'unsigned long (const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  125 |     char* back = s + strlen(s);
+                      ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: note: include the header <string.h> or explicitly provide a declaration for 'strlen'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: error: call to undeclared library function 'strchr' with type 'char *(const char *, int)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  137 |     while ((index = strchr(input, delimiter)) != NULL) {
+                     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: note: include the header <string.h> or explicitly provide a declaration for 'strchr'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: error: call to undeclared library function 'strcmp' with type 'int (const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  196 |             bool found = !needle || strcmp(word, needle) == 0;
+                                     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: note: include the header <string.h> or explicitly provide a declaration for 'strcmp'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: error: call to undeclared library function 'strstr' with type 'char *(const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  217 |     while ((str = strstr(subject, search))) {
+                   ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: note: include the header <string.h> or explicitly provide a declaration for 'strstr'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: error: call to undeclared library function 'strcpy' with type 'char *(char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  227 |     strcpy(result + offset, subject);
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: note: include the header <string.h> or explicitly provide a declaration for 'strcpy'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: error: call to undeclared library function 'strtod' with type 'double (const char *, char **)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  284 |     strtod(string, &endPtr);
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: note: include the header <stdlib.h> or explicitly provide a declaration for 'strtod'
+8 errors generated.
+[54/69] Building CXX object libadrenotools/lib/linkernsbypass/CMakeFiles/linkernsbypass.dir/android_linker_ns.cpp.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:68:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+   68 |     };
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:116:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+  116 |     };
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:106:5: warning: 'snprintf' will always be truncated; specified size is 3, but format string expands to at least 4 [-Wformat-truncation]
+  106 |     snprintf(sonameOverwrite.data(), sonameOverwrite.size(), "%03u", TargetId++);
+     ^
+3 warnings generated.
+[55/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o
+FAILED: gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o 
+D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgladiorenderer_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/../winlator/include -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/../vortekrenderer/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -Werror=incompatible-pointer-types -fno-limit-debug-info  -fPIC -MD -MT gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o -MF gladiorenderer\CMakeFiles\gladiorenderer.dir\src\compressed_texture.c.o.d -o gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/src/compressed_texture.c
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/src/compressed_texture.c:2:
+D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  608 |       memcpy(data, src, 4*16);
+       ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+1 error generated.
+[56/69] Building CXX object libadrenotools/CMakeFiles/adrenotools.dir/src/driver.cpp.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:109:5: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+  109 |     };
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:145:5: warning: missing field 'va_len' initializer [-Wmissing-field-initializers]
+  145 |     };
+     ^
+2 warnings generated.
+[57/69] Building CXX object libadrenotools/src/hook/CMakeFiles/hook_impl.dir/hook_impl.cpp.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:151:13: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+  151 |             };
+             ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:211:9: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+  211 |         };
+         ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:220:9: warning: missing field 'flags' initializer [-Wmissing-field-initializers]
+  220 |         };
+         ^
+3 warnings generated.
+[58/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_buffer.c.o
+[59/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/vrend_shader.c.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:2259:12: warning: 4 enumeration values not handled in switch: 'TGSI_RETURN_TYPE_UNORM', 'TGSI_RETURN_TYPE_SNORM', 'TGSI_RETURN_TYPE_FLOAT'... [-Wswitch]
+ 2259 |    switch (ctx->samplers[sinfo->sreg_index].tgsi_sampler_return) {
+            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:3574:12: warning: 5 enumeration values not handled in switch: 'TGSI_TYPE_UNTYPED', 'TGSI_TYPE_VOID', 'TGSI_TYPE_FLOAT'... [-Wswitch]
+ 3574 |    switch (stype) {
+            ^~~~~
+2 warnings generated.
+ninja: build stopped: subcommand failed.
+
+
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:68)
+	at org.gradle.internal.UncheckedException.throwAsUncheckedException(UncheckedException.java:41)
+	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:107)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.doExecute(StandardTaskAction.java:58)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
+	at org.gradle.api.internal.tasks.execution.TaskExecution$2.run(TaskExecution.java:239)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:157)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:47)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:68)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:224)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:207)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:190)
+	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:168)
+	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:89)
+	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:40)
+	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:53)
+	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:50)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:199)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:157)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:73)
+	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:50)
+	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:40)
+	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:68)
+	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:38)
+	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:48)
+	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:36)
+	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:41)
+	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:74)
+	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+	at org.gradle.internal.execution.steps.CreateOutputsStep.execute(CreateOutputsStep.java:51)
+	at org.gradle.internal.execution.steps.CreateOutputsStep.execute(CreateOutputsStep.java:29)
+	at org.gradle.internal.execution.steps.CaptureStateAfterExecutionStep.execute(CaptureStateAfterExecutionStep.java:61)
+	at org.gradle.internal.execution.steps.CaptureStateAfterExecutionStep.execute(CaptureStateAfterExecutionStep.java:42)
+	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:60)
+	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:27)
+	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:188)
+	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+	at org.gradle.internal.Either$Right.fold(Either.java:175)
+	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:59)
+	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:38)
+	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:27)
+	at org.gradle.internal.execution.steps.RecordOutputsStep.execute(RecordOutputsStep.java:36)
+	at org.gradle.internal.execution.steps.RecordOutputsStep.execute(RecordOutputsStep.java:22)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:109)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:56)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:56)
+	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:38)
+	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:73)
+	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:44)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+	at org.gradle.internal.execution.steps.ResolveCachingStateStep.execute(ResolveCachingStateStep.java:89)
+	at org.gradle.internal.execution.steps.ResolveCachingStateStep.execute(ResolveCachingStateStep.java:50)
+	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:114)
+	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:57)
+	at org.gradle.internal.execution.steps.CaptureStateBeforeExecutionStep.execute(CaptureStateBeforeExecutionStep.java:76)
+	at org.gradle.internal.execution.steps.CaptureStateBeforeExecutionStep.execute(CaptureStateBeforeExecutionStep.java:50)
+	at org.gradle.internal.execution.steps.SkipEmptyWorkStep.lambda$execute$2(SkipEmptyWorkStep.java:93)
+	at org.gradle.internal.execution.steps.SkipEmptyWorkStep.execute(SkipEmptyWorkStep.java:93)
+	at org.gradle.internal.execution.steps.SkipEmptyWorkStep.execute(SkipEmptyWorkStep.java:34)
+	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:43)
+	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:31)
+	at org.gradle.internal.execution.steps.AssignWorkspaceStep.lambda$execute$0(AssignWorkspaceStep.java:40)
+	at org.gradle.api.internal.tasks.execution.TaskExecution$3.withWorkspace(TaskExecution.java:284)
+	at org.gradle.internal.execution.steps.AssignWorkspaceStep.execute(AssignWorkspaceStep.java:40)
+	at org.gradle.internal.execution.steps.AssignWorkspaceStep.execute(AssignWorkspaceStep.java:30)
+	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:37)
+	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:27)
+	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:44)
+	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:33)
+	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:76)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:142)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:131)
+	at org.gradle.api.internal.tasks.execution.CleanupStaleOutputsExecuter.execute(CleanupStaleOutputsExecuter.java:77)
+	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:56)
+	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:199)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:157)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:73)
+	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:74)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:402)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:389)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:382)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:368)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.lambda$run$0(DefaultPlanExecutor.java:127)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:191)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.executeNextNode(DefaultPlanExecutor.java:182)
+	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:124)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:61)
+Caused by: Build command failed.
+Error while executing process D:\sdk\cmake\3.22.1\bin\ninja.exe with arguments {-C D:\pelajaranandroidstudio\win\app\.cxx\Debug\3j312z2n\arm64-v8a file_redirect_hook gladiorenderer gsl_alloc_hook hook_impl main_hook midihandler virglrenderer vortekrenderer winlator}
+ninja: Entering directory `D:\pelajaranandroidstudio\win\app\.cxx\Debug\3j312z2n\arm64-v8a'
+[1/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/vrend_formats.c.o
+[2/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server.c.o
+[3/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_format.c.o
+[4/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server_renderer.c.o
+[5/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/server/virgl_server_shm.c.o
+[6/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_format_table.c.o
+[7/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_cpu_detect.c.o
+[8/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_texture.c.o
+[9/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_bitmask.c.o
+[10/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_debug.c.o
+[11/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_hash_table.c.o
+[12/69] Building C object winlator/CMakeFiles/winlator.dir/src/drawable.c.o
+[13/69] Building C object winlator/CMakeFiles/winlator.dir/src/gpu_image.c.o
+[14/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_scan.c.o
+[15/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_ureg.c.o
+[16/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_info.c.o
+[17/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_build.c.o
+[18/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/cso_cache/cso_cache.c.o
+[19/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_debug_describe.c.o
+[20/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_surface.c.o
+[21/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/util/u_math.c.o
+[22/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_dump.c.o
+[23/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/cso_cache/cso_hash.c.o
+[24/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_util.c.o
+[25/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_text.c.o
+[26/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_strings.c.o
+[27/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_sanity.c.o
+[28/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_iterate.c.o
+[29/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_transform.c.o
+[30/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/os/os_misc.c.o
+[31/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/gallium/auxiliary/tgsi/tgsi_parse.c.o
+[32/69] Building CXX object libadrenotools/lib/linkernsbypass/CMakeFiles/linkernsbypass.dir/elf_soname_patcher.cpp.o
+[33/69] Building C object midihandler/CMakeFiles/midihandler.dir/midihandler.c.o
+[34/69] Building CXX object libadrenotools/CMakeFiles/adrenotools.dir/src/bcenabler.cpp.o
+[35/69] Building C object libadrenotools/src/hook/CMakeFiles/gsl_alloc_hook.dir/gsl_alloc_hook.c.o
+[36/69] Building C object libadrenotools/src/hook/CMakeFiles/file_redirect_hook.dir/file_redirect_hook.c.o
+[37/69] Building C object libadrenotools/src/hook/CMakeFiles/main_hook.dir/main_hook.c.o
+[38/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_query.c.o
+[39/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_formats.c.o
+[40/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_texture.c.o
+[41/69] Linking C shared library D:\pelajaranandroidstudio\win\app\build\intermediates\cxx\Debug\3j312z2n\obj\arm64-v8a\libmidihandler.so
+[42/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/attrib_stack.c.o
+[43/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/shader_converter.c.o
+[44/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_context.c.o
+[45/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_renderer.c.o
+[46/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/main.c.o
+[47/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/request_handler.c.o
+[48/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/shader_material.c.o
+[49/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/arb_program.c.o
+[50/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_framebuffer.c.o
+[51/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_vao.c.o
+[52/69] Building C object winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o
+FAILED: winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o 
+D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwinlator_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -fno-limit-debug-info  -fPIC -MD -MT winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o -MF winlator\CMakeFiles\winlator.dir\src\gpu_helper.c.o.d -o winlator/CMakeFiles/winlator.dir/src/gpu_helper.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/gpu_helper.c
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/gpu_helper.c:13:
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/file_utils.h:10:
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/time_utils.h:10:5: error: call to undeclared function 'clock_gettime'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   10 |     clock_gettime(CLOCK_REALTIME, &time);
+     ^
+1 error generated.
+[53/69] Building C object winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o
+FAILED: winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o 
+D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwinlator_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -fno-limit-debug-info  -fPIC -MD -MT winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o -MF winlator\CMakeFiles\winlator.dir\src\wine_registry_editor.c.o.d -o winlator/CMakeFiles/winlator.dir/src/wine_registry_editor.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/wine_registry_editor.c
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/src/wine_registry_editor.c:6:
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: error: call to undeclared library function 'strdup' with type 'char *(const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   51 |         ArrayList_add(arrayList, strdup(rawString));
+                                  ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:51:34: note: include the header <string.h> or explicitly provide a declaration for 'strdup'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   94 |     memcpy(res, dst, dstOffset);
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:94:5: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: error: call to undeclared library function 'strlen' with type 'unsigned long (const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  125 |     char* back = s + strlen(s);
+                      ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:125:22: note: include the header <string.h> or explicitly provide a declaration for 'strlen'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: error: call to undeclared library function 'strchr' with type 'char *(const char *, int)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  137 |     while ((index = strchr(input, delimiter)) != NULL) {
+                     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:137:21: note: include the header <string.h> or explicitly provide a declaration for 'strchr'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: error: call to undeclared library function 'strcmp' with type 'int (const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  196 |             bool found = !needle || strcmp(word, needle) == 0;
+                                     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:196:37: note: include the header <string.h> or explicitly provide a declaration for 'strcmp'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: error: call to undeclared library function 'strstr' with type 'char *(const char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  217 |     while ((str = strstr(subject, search))) {
+                   ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:217:19: note: include the header <string.h> or explicitly provide a declaration for 'strstr'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: error: call to undeclared library function 'strcpy' with type 'char *(char *, const char *)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  227 |     strcpy(result + offset, subject);
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:227:5: note: include the header <string.h> or explicitly provide a declaration for 'strcpy'
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: error: call to undeclared library function 'strtod' with type 'double (const char *, char **)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  284 |     strtod(string, &endPtr);
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/winlator/include/string_utils.h:284:5: note: include the header <stdlib.h> or explicitly provide a declaration for 'strtod'
+8 errors generated.
+[54/69] Building CXX object libadrenotools/lib/linkernsbypass/CMakeFiles/linkernsbypass.dir/android_linker_ns.cpp.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:68:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+   68 |     };
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:116:5: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+  116 |     };
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/lib/linkernsbypass/android_linker_ns.cpp:106:5: warning: 'snprintf' will always be truncated; specified size is 3, but format string expands to at least 4 [-Wformat-truncation]
+  106 |     snprintf(sonameOverwrite.data(), sonameOverwrite.size(), "%03u", TargetId++);
+     ^
+3 warnings generated.
+[55/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o
+FAILED: gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o 
+D:\sdk\ndk\27.0.12077973\toolchains\llvm\prebuilt\windows-x86_64\bin\clang.exe --target=aarch64-none-linux-android26 --sysroot=D:/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgladiorenderer_EXPORTS -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/../winlator/include -ID:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/../vortekrenderer/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -Wno-unused-function -Wimplicit-function-declaration -Werror=incompatible-pointer-types -fno-limit-debug-info  -fPIC -MD -MT gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o -MF gladiorenderer\CMakeFiles\gladiorenderer.dir\src\compressed_texture.c.o.d -o gladiorenderer/CMakeFiles/gladiorenderer.dir/src/compressed_texture.c.o -c D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/src/compressed_texture.c
+In file included from D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/src/compressed_texture.c:2:
+D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: error: call to undeclared library function 'memcpy' with type 'void *(void *, const void *, unsigned long)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+  608 |       memcpy(data, src, 4*16);
+       ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/gladiorenderer/include/stb_dxt.h:608:7: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+1 error generated.
+[56/69] Building CXX object libadrenotools/CMakeFiles/adrenotools.dir/src/driver.cpp.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:109:5: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+  109 |     };
+     ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/driver.cpp:145:5: warning: missing field 'va_len' initializer [-Wmissing-field-initializers]
+  145 |     };
+     ^
+2 warnings generated.
+[57/69] Building CXX object libadrenotools/src/hook/CMakeFiles/hook_impl.dir/hook_impl.cpp.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:151:13: warning: missing field 'reserved_addr' initializer [-Wmissing-field-initializers]
+  151 |             };
+             ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:211:9: warning: missing field 'id' initializer [-Wmissing-field-initializers]
+  211 |         };
+         ^
+D:/pelajaranandroidstudio/win/app/src/main/cpp/libadrenotools/src/hook/hook_impl.cpp:220:9: warning: missing field 'flags' initializer [-Wmissing-field-initializers]
+  220 |         };
+         ^
+3 warnings generated.
+[58/69] Building C object gladiorenderer/CMakeFiles/gladiorenderer.dir/src/gl_buffer.c.o
+[59/69] Building C object virglrenderer/CMakeFiles/virglrenderer.dir/src/vrend_shader.c.o
+D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:2259:12: warning: 4 enumeration values not handled in switch: 'TGSI_RETURN_TYPE_UNORM', 'TGSI_RETURN_TYPE_SNORM', 'TGSI_RETURN_TYPE_FLOAT'... [-Wswitch]
+ 2259 |    switch (ctx->samplers[sinfo->sreg_index].tgsi_sampler_return) {
+            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:/pelajaranandroidstudio/win/app/src/main/cpp/virglrenderer/src/vrend_shader.c:3574:12: warning: 5 enumeration values not handled in switch: 'TGSI_TYPE_UNTYPED', 'TGSI_TYPE_VOID', 'TGSI_TYPE_FLOAT'... [-Wswitch]
+ 3574 |    switch (stype) {
+            ^~~~~
+2 warnings generated.
+ninja: build stopped: subcommand failed.
+
+
+	at com.android.build.gradle.internal.cxx.process.ProcessOutputJunction.execute(ProcessOutputJunction.kt:126)
+	at com.android.build.gradle.internal.cxx.process.ProcessOutputJunction.execute(ProcessOutputJunction.kt:149)
+	at com.android.build.gradle.internal.cxx.build.CxxRegularBuilder.executeProcessBatch(CxxRegularBuilder.kt:363)
+	at com.android.build.gradle.internal.cxx.build.CxxRegularBuilder.build(CxxRegularBuilder.kt:140)
+	at com.android.build.gradle.tasks.ExternalNativeBuildTask$doTaskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:70)
+	at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
+	at com.android.build.gradle.tasks.ExternalNativeBuildTask.doTaskAction(ExternalNativeBuildTask.kt:136)
+	at com.android.build.gradle.internal.tasks.UnsafeOutputsTask$taskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:65)
+	at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
+	at com.android.build.gradle.internal.tasks.UnsafeOutputsTask.taskAction(UnsafeOutputsTask.kt:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:104)
+	... 114 more
+
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 1m 10s
+25 actionable tasks: 2 executed, 23 up-to-date
