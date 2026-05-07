@@ -7,6 +7,11 @@ import java.util.Locale;
 public abstract class DefaultVersion {
     public static final String BOX64 = "0.4.0";
     public static final String TURNIP = "25.1.0";
+    public static final String[] TURNIP_VERSIONS = {
+            "25.1.0",
+            "26.1.0",
+            "26.2.0"
+    };
     public static final String VORTEK = "2.1";
     public static final String LAVAPIPE = "25.0.0";
     public static final String LLVMPIPE = "25.0.0";
