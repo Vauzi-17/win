@@ -294,6 +294,9 @@
     <string name="use_android_clipboard_on_Wine">Use Android Clipboard on Wine</string>
     <string name="capture_pointer_on_external_mouse">Capture pointer on external mouse</string>
     <string name="there_are_no_items_to_download">There are no items to download</string>
+    <string name="invalid_turnip_file_name">Select a file named turnip-&lt;version&gt;.tzst</string>
+    <string name="turnip_driver_imported">Turnip driver imported</string>
+    <string name="unable_to_import_turnip_driver">Unable to import Turnip driver. Make sure the file is a valid .tzst archive</string>
     <string name="enable_direct_rendering">Enable direct rendering</string>
     <string name="d3d_feature_level">D3D Feature Level</string>
     <string name="system_font">System Font</string>

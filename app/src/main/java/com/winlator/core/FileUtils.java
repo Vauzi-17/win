@@ -3,9 +3,11 @@ package com.winlator.core;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.database.Cursor;
 import android.net.Uri;
 import android.os.Environment;
 import android.os.StatFs;
+import android.provider.OpenableColumns;
 import android.system.ErrnoException;
 import android.system.Os;
 
@@ -154,6 +156,19 @@ public abstract class FileUtils {
         return copy(srcFile, dstFile, null);
     }
 
+    public static boolean copy(Context context, Uri srcUri, File dstFile) {
+        File parent = dstFile.getParentFile();
+        if (parent != null && !parent.exists() && !parent.mkdirs()) return false;
+
+        try (InputStream inStream = context.getContentResolver().openInputStream(srcUri);
+             BufferedOutputStream outStream = new BufferedOutputStream(new FileOutputStream(dstFile), StreamUtils.BUFFER_SIZE)) {
+            return inStream != null && StreamUtils.copy(inStream, outStream);
+        }
+        catch (IOException e) {
+            return false;
+        }
+    }
+
     public static boolean copy(File srcFile, File dstFile, Callback<File> callback) {
         if (isSymlink(srcFile)) return true;
         if (srcFile.isDirectory()) {
@@ -245,6 +260,20 @@ public abstract class FileUtils {
         path = StringUtils.removeEndSlash(path);
         int index = Math.max(path.lastIndexOf('/'), path.lastIndexOf('\\'));
         return path.substring(index + 1);
+    }
+
+    public static String getName(Context context, Uri uri) {
+        if (uri == null) return "";
+
+        try (Cursor cursor = context.getContentResolver().query(uri, new String[]{OpenableColumns.DISPLAY_NAME}, null, null, null)) {
+            if (cursor != null && cursor.moveToFirst()) {
+                int nameIndex = cursor.getColumnIndex(OpenableColumns.DISPLAY_NAME);
+                if (nameIndex >= 0) return cursor.getString(nameIndex);
+            }
+        }
+        catch (Exception e) {}
+
+        return getName(uri.getPath());
     }
 
     public static String getBasename(String path) {

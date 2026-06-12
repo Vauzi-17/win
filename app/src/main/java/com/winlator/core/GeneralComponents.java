@@ -105,7 +105,7 @@ public abstract class GeneralComponents {
             if (this == Type.SOUNDFONT || this == ADRENOTOOLS_DRIVER) {
                 installMode = InstallMode.FILE;
             }
-            else if (this == Type.WINED3D || this == Type.DXVK || this == Type.VKD3D) {
+            else if (this == Type.TURNIP || this == Type.WINED3D || this == Type.DXVK || this == Type.VKD3D) {
                 installMode = InstallMode.BOTH;
             }
             else installMode = InstallMode.DOWNLOAD;
@@ -274,6 +274,37 @@ public abstract class GeneralComponents {
 
     private static void openFileForInstall(final MainActivity activity, final Type type, final Spinner spinner, final String defaultItem) {
         activity.setOpenFileCallback((uri) -> {
+            if (type == Type.TURNIP) {
+                String filename = FileUtils.getName(activity, uri);
+                String lowerFilename = filename.toLowerCase(Locale.ENGLISH);
+                String prefix = type.lowerName()+"-";
+                String suffix = ".tzst";
+
+                if (!lowerFilename.startsWith(prefix) || !lowerFilename.endsWith(suffix)) {
+                    AppUtils.showToast(activity, R.string.invalid_turnip_file_name);
+                    return;
+                }
+
+                String identifier = filename.substring(prefix.length(), filename.length() - suffix.length()).trim();
+                if (identifier.isEmpty() || identifier.contains("/") || identifier.contains("\\")) {
+                    AppUtils.showToast(activity, R.string.invalid_turnip_file_name);
+                    return;
+                }
+
+                File destination = new File(getComponentDir(type, activity), prefix+identifier+suffix);
+                if (destination.isFile()) FileUtils.delete(destination);
+
+                if (FileUtils.copy(activity, uri, destination) && TarCompressorUtils.isReadableArchive(TarCompressorUtils.Type.ZSTD, destination)) {
+                    loadSpinner(type, spinner, identifier, defaultItem);
+                    AppUtils.showToast(activity, R.string.turnip_driver_imported);
+                }
+                else {
+                    FileUtils.delete(destination);
+                    AppUtils.showToast(activity, R.string.unable_to_import_turnip_driver);
+                }
+                return;
+            }
+
             String path = FileUtils.getFilePathFromUri(uri);
             if (path == null) return;
 

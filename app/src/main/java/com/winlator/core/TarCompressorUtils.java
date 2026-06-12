@@ -227,6 +227,18 @@ public abstract class TarCompressorUtils {
         }
     }
 
+    public static boolean isReadableArchive(Type type, File source) {
+        if (source == null || !source.isFile()) return false;
+
+        try (InputStream inStream = getCompressorInputStream(type, new BufferedInputStream(new FileInputStream(source), StreamUtils.BUFFER_SIZE));
+             ArchiveInputStream tar = new TarArchiveInputStream(inStream)) {
+            return tar.getNextEntry() != null;
+        }
+        catch (IOException e) {
+            return false;
+        }
+    }
+
     private static InputStream getCompressorInputStream(Type type, InputStream source) throws IOException {
         if (type == Type.XZ) {
             return new XZCompressorInputStream(source);
